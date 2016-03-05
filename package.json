@@ -1,0 +1,30 @@
+{
+  "name": "aegean-numbers",
+  "version": "1.0.0",
+  "description": "Convert between Numbers and Aegean numerals",
+  "main": "aegean-numbers.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapmeld/aegean-numbers.git"
+  },
+  "keywords": [
+    "aegean",
+    "ancient",
+    "numerals",
+    "numbers",
+    "i18n",
+    "internationalization"
+  ],
+  "author": "Nick Doiron <ndoiron@mapmeld.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mapmeld/aegean-numbers/issues"
+  },
+  "homepage": "https://github.com/mapmeld/aegean-numbers#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
