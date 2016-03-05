@@ -57,6 +57,9 @@ function aegean(input, convertToArabicNumerals) {
   } else {
     // convert from Arabic numerals to Aegean numerals
     var numerals = input.match(/[-]?\d+[\.\d+]?/g);
+    if (!numerals) {
+      numerals = [];
+    }
     // console.log(numerals);
     for (var n = 0; n < numerals.length; n++) {
       var conversion = 1 * numerals[n];

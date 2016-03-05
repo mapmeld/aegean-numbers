@@ -1,6 +1,6 @@
 {
   "name": "aegean-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert between Numbers and Aegean numerals",
   "main": "aegean-numbers.js",
   "scripts": {
