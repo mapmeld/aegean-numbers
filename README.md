@@ -1,5 +1,7 @@
 # aegean-numbers
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/aegean-numbers.svg)](https://greenkeeper.io/)
+
 Convert between Numbers and Aegean Numerals in JavaScript
 
 Decimals, numbers over 99,999, zero, and negative numbers are not supported. An error will be raised.
